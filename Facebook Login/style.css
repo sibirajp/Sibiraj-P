@@ -1,0 +1,336 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+div
+{
+	height: 643px;
+	width: 1457px;
+	border: 1px solid #06d5e2;
+	background-image: url("layer/Backround Fill.jpg") ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.navbar
+{
+	height: 80px;
+	width: 100%;
+	background-color: #06d5e2;
+	opacity: 90%;
+	border-bottom: 1px solid #06d5e2;
+}
+
+.logo
+{
+	position: absolute;
+    height: 63px;
+    width: 190px;
+    left: 3%;
+    padding-top: 5.5px;
+}
+
+.loginform
+{
+    display: flex;
+    position: absolute;
+    font-family: poppins;
+    left: 60%;
+    top: 20px;
+    color: #ffff;
+}
+
+.pawd
+{
+    display: flex;
+    position: absolute;
+    font-family: poppins;
+    left: 75%;
+    top: 20px;
+    color: #ffff;
+    
+}
+
+.en
+{
+	display: flex;
+    position: absolute;
+    font-family: poppins;
+    top: 31px;
+    margin-left: 0px;
+}
+
+.pd
+{
+	display: flex;
+    position: absolute;
+    font-family: poppins;
+    top: 31px;
+    margin-left: 0px;
+}
+
+.logn
+{
+	display: flex;
+    position: absolute;
+    font-family: poppins;
+    top: 40px;
+    margin-left: 1300px;
+    border-radius: 10px;
+    background-color: blue;
+    color: #ffff;
+    cursor: pointer;
+}
+
+p
+{
+    color: white;
+    margin-top: 40px;
+    margin-left: 130px;
+    font-size: 23px;
+    font-family: roboto;
+}
+
+.para
+{
+    color: white;
+    margin-top: -15px;
+    margin-left: 250px;
+    font-size: 23px;
+    font-family: roboto;
+}
+
+
+.imgm
+{
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 110px;
+}
+
+.cna
+{
+    color: black;
+    font-size: 30px;
+    font-family: roboto;
+    margin-top: -100px;
+    margin-left: 880px;
+}
+
+.para2
+{
+    color: yellow;
+    font-size: 15px;
+    font-family: poppins;
+    margin-top: -5px;
+    margin-left: 881px;
+
+}
+
+.first
+{
+    border-radius: 10px;
+    position: absolute;
+    height: 20px;
+    margin-top: -5px;
+    margin-left: 881px;
+     
+}
+
+.second
+{
+    border-radius: 10px;
+    position: absolute;
+    height: 20px;
+    margin-left: 1080px;
+    margin-top: -5px;
+
+}
+
+.third
+{
+    border-radius: 10px;
+    position: absolute;
+    height: 20px;
+    width: 200px;
+    margin-left: 881px;
+    margin-top: 30px;
+
+}
+
+.fourth
+{
+    border-radius: 10px;
+    position: absolute;
+    height: 20px;
+    width: 200px;
+    margin-left: 881px;
+    margin-top: 65px;
+
+}
+
+.fifth
+{
+    border-radius: 10px;
+    position: absolute;
+    height: 20px;
+    width: 200px;
+    margin-left: 881px;
+    margin-top: 100px;
+
+}
+
+.bdy
+{
+    color: black;
+    font-size: 30px;
+    font-family: roboto;
+    margin-top: 160px;
+    margin-left: 881px;
+}
+
+
+.ten
+{
+    color: black;
+    position: absolute;
+    border-radius: 5px;
+    height: 20px;
+    margin-top: -10px;
+    margin-left: 881px;
+    cursor: pointer;
+}
+
+.eleven
+{
+    color: black;
+    position: absolute;
+    border-radius: 5px;
+    height: 20px;
+    margin-top: -10px;
+    margin-left: 940px;
+    cursor: pointer;
+}
+
+.twelve
+{
+    color: black;
+    position: absolute;
+    border-radius: 5px;
+    height: 20px;
+    margin-top: -10px;
+    margin-left: 1010px;
+    cursor: pointer;
+}
+
+.bhint
+{
+    color: yellow;
+    font-size: 10px;
+    font-family: poppins;
+    margin-top: -17px;
+    margin-left: 1100px;
+}
+
+p a
+{
+    color: yellow;
+    text-decoration: none;
+}
+
+.bhint1
+{
+    color: yellow;
+    font-size: 10px;
+    font-family: poppins;
+    margin-top: -11px;
+    margin-left: 1130px;
+}
+
+.twenty
+{
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 881px;
+}
+
+.twenty1
+{
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 950px;
+}
+
+
+.twentyL
+{
+    color: white;
+    position: absolute;
+    font-family: poppins;
+    font-size: 13px;
+    margin-top: -3.5px;
+    margin-left: 900px;
+}
+
+.twenty1L
+{
+    color: white;
+    position: absolute;
+    font-family: poppins;
+    font-size: 13px;
+    margin-top: -3.5px;
+    margin-left: 970px;
+
+
+}
+
+.hint1
+{
+    font-family: roboto;
+    position: absolute;
+    font-size: 15px;
+    color: #ffff;
+    margin-left: 900px;
+    margin-top: 30px;
+    color: yellow;
+}
+
+.hint2
+{
+    font-family: roboto;
+    position: absolute;
+    font-size: 15px;
+    color: #ffff;
+    margin-left: 903px;
+    margin-top: 50px;
+    color: yellow;
+}
+
+.cret
+{
+    position: absolute;
+    font-family: poppins;
+    border-radius: 10px;
+    background-color: blue;
+    color: #ffff;
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 881px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
